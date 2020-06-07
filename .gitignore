@@ -1,0 +1,5 @@
+*.out
+task.*
+Alt*.c
+rep*.c
+*.DS_Store
